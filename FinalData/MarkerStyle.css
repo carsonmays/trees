@@ -1,0 +1,27 @@
+h1 {
+text-align: center;
+}
+
+p {
+text-align: center;
+}
+
+
+.marker-cluster-small {
+background-color:#e5f5e0;
+}
+.marker-cluster-small div {
+background-color:#d8eed1;
+}
+.marker-cluster-medium {
+background-color: #a1d99b;
+}
+.marker-cluster-medium div {
+background-color: #91c789;
+}
+.marker-cluster-large {
+background-color:  #31a354;
+}
+.marker-cluster-large div {
+background-color: #278a45;
+}
